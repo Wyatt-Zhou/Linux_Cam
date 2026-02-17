@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/album.png</file>
+        <file>icon/back.png</file>
+        <file>icon/file.png</file>
+        <file>icon/left.png</file>
+        <file>icon/new.png</file>
+        <file>icon/right.png</file>
+        <file>icon/set.png</file>
+        <file>icon/take_photo.png</file>
+        <file>icon/garbage.png</file>
+        <file>icon/take_photo_pressed.png</file>
+        <file>icon/Record.png</file>
+        <file>icon/Recording.png</file>
+        <file>icon/play.png</file>
+    </qresource>
+</RCC>
